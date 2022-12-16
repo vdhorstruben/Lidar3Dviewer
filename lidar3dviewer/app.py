@@ -6,6 +6,7 @@ from pyproj import Proj
 import pandas as pd
 
 from viktor import ViktorController
+
 from viktor.views import GeoJSONResult
 from viktor.views import GeoJSONView
 
